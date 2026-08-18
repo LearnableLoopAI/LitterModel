@@ -1,0 +1,6 @@
+.DS_Store
+.julia/
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+docs/build/
